@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sangeun/Sangeun.iml" filepath="$PROJECT_DIR$/Sangeun/Sangeun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shinhang/Shinhang.iml" filepath="$PROJECT_DIR$/Shinhang/Shinhang.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algostudy_ss.iml" filepath="$PROJECT_DIR$/.idea/algostudy_ss.iml" />
     </modules>
   </component>
