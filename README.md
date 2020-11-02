@@ -7,4 +7,5 @@
 
 ## 2주차
 - 스코빌 지수 (https://programmers.co.kr/learn/courses/30/lessons/42626) [Heap] 
-- ㅈㅜㅅㅣㄱㄱㅏㄱㅕㄱ(https://programmers.co.kr/learn/courses/30/lessons/42584) [ㅅㅡㅌㅐㄱ /ㅋㅠ]
+- 주식가격(https://programmers.co.kr/learn/courses/30/lessons/42584) [스택/큐]
+- 가장 큰 수(https://programmers.co.kr/learn/courses/30/lessons/42746) [정렬]
