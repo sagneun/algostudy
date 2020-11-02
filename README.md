@@ -7,4 +7,4 @@
 
 ## 2주차
 - 스코빌 지수 (https://programmers.co.kr/learn/courses/30/lessons/42626) [Heap] 
-- (https://programmers.co.kr/learn/courses/30/lessons/42584)[stack/queue]
+- ㅈㅜㅅㅣㄱㄱㅏㄱㅕㄱ(https://programmers.co.kr/learn/courses/30/lessons/42584) [ㅅㅡㅌㅐㄱ /ㅋㅠ]
