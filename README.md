@@ -11,3 +11,4 @@
 - 가장 큰 수(https://programmers.co.kr/learn/courses/30/lessons/42746) [정렬]
 
 ## 3주차
+- 베스트앨범 (https://programmers.co.kr/learn/courses/30/lessons/42579) [해시]
