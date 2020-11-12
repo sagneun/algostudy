@@ -7,9 +7,9 @@ public class Problem_1 {
         @Override
         public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
             if(o1.getValue() == o2.getValue()){
-                return o2.getKey() - o1.getKey();
+                return o1.getKey() - o2.getKey();
             } else {
-                return o1.getValue() - o2.getValue();
+                return o2.getValue() - o1.getValue();
             }
         }
     };
@@ -17,7 +17,7 @@ public class Problem_1 {
     Comparator<Map.Entry<String, HashMap<Integer, Integer>>> compMap = new Comparator<Map.Entry<String, HashMap<Integer, Integer>>>() {
         @Override
         public int compare(Map.Entry<String, HashMap<Integer, Integer>> o1, Map.Entry<String, HashMap<Integer, Integer>> o2) {
-            return (SumOfValues(o1.getValue()) - SumOfValues(o2.getValue()));
+            return (SumOfValues(o2.getValue()) - SumOfValues(o1.getValue()));
         }
     };
 
@@ -48,7 +48,7 @@ public class Problem_1 {
             tmp2 = 0;
             for(Map.Entry<Integer, Integer> entry : hashMapRtn.get(str).entrySet()){
                 if(tmp2 > 1) break;
-                linkedList.push(entry.getKey());
+                linkedList.add(entry.getKey());
                 tmp2++;
             }
         }
